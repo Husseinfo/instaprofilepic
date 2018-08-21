@@ -1,4 +1,9 @@
 # Instagram full profile picture fetcher
 
 ## Run
-Add your Telegram bot token to bot.py and run it with python3.
+
+### Install requirements
+```pip3 install -r requirements.txt```
+
+### Add your Telegram bot token to bot.py's main and run
+``` python3 bot.py```
